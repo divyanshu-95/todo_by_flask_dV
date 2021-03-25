@@ -1,1 +1,1 @@
-web:gunicorn:app.appheroku logi
+web: gunicorn app:app
